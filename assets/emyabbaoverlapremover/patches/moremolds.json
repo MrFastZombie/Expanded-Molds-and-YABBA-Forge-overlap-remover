@@ -1,0 +1,202 @@
+[
+	{
+		"op": "add",
+		"path": "/enabled",
+		"file": "moremolds:blocktypes/clay/mold/bulk_ingotmold",
+		"value": "false",
+		"dependsOn": [
+			{"modid": "moremolds"},
+			{"modid": "expandedmolds"}
+		]
+	},
+	{
+		"op": "add",
+		"path": "/enabled",
+		"file": "moremolds:blocktypes/clay/mold/bulk_ingotmold",
+		"value": "false",
+		"dependsOn": [
+			{"modid": "moremolds"},
+			{"modid": "expandedmoldsbalanced"}
+		]
+	},
+	{
+		"op": "add",
+		"path": "/enabled",
+		"file": "moremolds:recipes/clayforming/bulk_ingot",
+		"value": "false",
+		"dependsOn": [
+			{"modid": "moremolds"},
+			{"modid": "expandedmolds"}
+		]
+	},
+	{
+		"op": "add",
+		"path": "/enabled",
+		"file": "moremolds:recipes/clayforming/bulk_ingot",
+		"value": "false",
+		"dependsOn": [
+			{"modid": "moremolds"},
+			{"modid": "expandedmoldsbalanced"}
+		]
+	},
+	{
+		"op": "add",
+		"path": "/0/enabled",
+		"file": "moremolds:recipes/grid/bulk_ingotmold_24",
+		"value": "false",
+		"dependsOn": [
+			{"modid": "moremolds"},
+			{"modid": "expandedmolds"}
+		]
+	},
+	{
+		"op": "add",
+		"path": "/0/enabled",
+		"file": "moremolds:recipes/grid/bulk_ingotmold_24",
+		"value": "false",
+		"dependsOn": [
+			{"modid": "moremolds"},
+			{"modid": "expandedmoldsbalanced"}
+		]
+	},
+	{
+		"op": "add",
+		"path": "/enabled",
+		"file": "moremolds:blocktypes/clay/mold/bulk_ingotmold_24",
+		"value": "false",
+		"dependsOn": [
+			{"modid": "moremolds"},
+			{"modid": "expandedmolds"}
+		]
+	},
+	{
+		"op": "add",
+		"path": "/enabled",
+		"file": "moremolds:blocktypes/clay/mold/bulk_ingotmold_24",
+		"value": "false",
+		"dependsOn": [
+			{"modid": "moremolds"},
+			{"modid": "expandedmoldsbalanced"}
+		]
+	},
+	{
+		"op": "add",
+		"path": "/enabled",
+		"file": "moremolds:blocktypes/clay/mold/platemold",
+		"value": "false",
+		"dependsOn": [
+			{"modid": "moremolds"},
+			{"modid": "expandedmolds"}
+		]
+	},
+	{
+		"op": "add",
+		"path": "/enabled",
+		"file": "moremolds:blocktypes/clay/mold/five_platemold",
+		"value": "false",
+		"dependsOn": [
+			{"modid": "moremolds"},
+			{"modid": "expandedmolds"}
+		]
+	},
+	{
+		"op": "add",
+		"path": "/enabled",
+		"file": "moremolds:recipes/clayforming/plate",
+		"value": "false",
+		"dependsOn": [
+			{"modid": "moremolds"},
+			{"modid": "expandedmolds"}
+		]
+	},
+	{
+		"op": "add",
+		"path": "/enabled",
+		"file": "moremolds:recipes/clayforming/five_plate",
+		"value": "false",
+		"dependsOn": [
+			{"modid": "moremolds"},
+			{"modid": "expandedmolds"}
+		]
+	},
+	{
+		"op": "add",
+		"path": "/enabled",
+		"file": "moremolds:blocktypes/clay/mold/chutesectionmold",
+		"value": "false",
+		"dependsOn": [
+			{"modid": "moremolds"},
+			{"modid": "expandedmolds"}
+		]
+	},
+	{
+		"op": "add",
+		"path": "/enabled",
+		"file": "moremolds:recipes/clayforming/chutesection",
+		"value": "false",
+		"dependsOn": [
+			{"modid": "moremolds"},
+			{"modid": "expandedmolds"}
+		]
+	},
+	{
+		"op": "add",
+		"path": "/enabled",
+		"file": "moremolds:blocktypes/clay/mold/hoopmold",
+		"value": "false",
+		"dependsOn": [
+			{"modid": "moremolds"},
+			{"modid": "expandedmolds"}
+		]
+	},
+	{
+		"op": "add",
+		"path": "/enabled",
+		"file": "moremolds:recipes/clayforming/hoop",
+		"value": "false",
+		"dependsOn": [
+			{"modid": "moremolds"},
+			{"modid": "expandedmolds"}
+		]
+	},
+	{
+		"op": "add",
+		"path": "/enabled",
+		"file": "moremolds:blocktypes/clay/mold/hoopmold",
+		"value": "false",
+		"dependsOn": [
+			{"modid": "moremolds"},
+			{"modid": "expandedmoldsbalanced"}
+		]
+	},
+	{
+		"op": "add",
+		"path": "/enabled",
+		"file": "moremolds:recipes/clayforming/hoop",
+		"value": "false",
+		"dependsOn": [
+			{"modid": "moremolds"},
+			{"modid": "expandedmoldsbalanced"}
+		]
+	},
+	{
+		"op": "add",
+		"path": "/enabled",
+		"file": "moremolds:blocktypes/clay/mold/nailsinglemold",
+		"value": "false",
+		"dependsOn": [
+			{"modid": "moremolds"},
+			{"modid": "expandedmolds"}
+		]
+	},
+	{
+		"op": "add",
+		"path": "/enabled",
+		"file": "moremolds:recipes/clayforming/nailsingle",
+		"value": "false",
+		"dependsOn": [
+			{"modid": "moremolds"},
+			{"modid": "expandedmolds"}
+		]
+	},
+]
