@@ -4,9 +4,10 @@
   "name": "Expanded Molds and YABBA Forge content overlap remover",
   "authors": ["MrFastZombie"],
   "description": "Removes the ingot, plate, chutes, hoop, and nail & strip molds from YABBA Forge when Expanded Molds is present. Only the ingot and hoop molds when EM Lite is installed.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "dependencies": {
-    "game" : "1.20.0"
+    "game" : "1.21.0"
   }
 
 }
+
