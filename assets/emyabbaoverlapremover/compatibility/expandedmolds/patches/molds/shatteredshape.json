@@ -1,0 +1,9 @@
+[
+    {
+        "file": "game:blocktypes/clay/fired/toolmold.json",
+        "op": "replace",
+        "path": "/attributes/shatteredShape/base",
+        "value": "block/clay/mold/shattered-tool"
+        
+    }
+]
