@@ -1,0 +1,70 @@
+[
+    {
+		"op": "replace",
+		"path": "/variantgroups/2",
+		"file": "expandedmolds:blocktypes/clay/mold/raw/toolmold",
+		"value": { "code":"tooltype", "states": ["hoop"] },
+		"dependsOn": [
+			{"modid": "molds"},
+			{"modid": "expandedmolds"}
+		]
+	},
+    {
+		"op": "replace",
+		"path": "/variantgroups/2",
+		"file": "expandedmolds:blocktypes/clay/mold/fired/toolmold",
+		"value": { "code":"tooltype", "states": ["hoop"] },
+		"dependsOn": [
+			{"modid": "molds"},
+			{"modid": "expandedmolds"}
+		]
+	},
+    {
+		"op": "remove",
+		"path": "/attributesByType/toolmold-*-fired-nailsandstrips",
+		"file": "expandedmolds:blocktypes/clay/mold/fired/toolmold",
+		"dependsOn": [
+			{"modid": "molds"},
+			{"modid": "expandedmolds"}
+		]
+	},
+	{
+		"op": "remove",
+		"path": "/attributesByType/toolmold-*-fired-chainring",
+		"file": "expandedmolds:blocktypes/clay/mold/fired/toolmold",
+		"dependsOn": [
+			{"modid": "molds"},
+			{"modid": "expandedmolds"}
+		]
+	},
+    {
+		"op": "addmerge",
+		"path": "/enabled",
+		"file": "expandedmolds:recipes/clayforming/nailsandstripsmold",
+		"value": "false",
+		"dependsOn": [
+			{"modid": "molds"},
+			{"modid": "expandedmolds"}
+		]
+	},
+	{
+		"op": "addmerge",
+		"path": "/enabled",
+		"file": "expandedmolds:recipes/clayforming/chainringmold",
+		"value": "false",
+		"dependsOn": [
+			{"modid": "molds"},
+			{"modid": "expandedmolds"}
+		]
+	},
+	{
+		"op": "addmerge",
+		"path": "/enabled",
+		"file": "expandedmolds:itemtypes/chainring",
+		"value": "false",
+		"dependsOn": [
+			{"modid": "molds"},
+			{"modid": "expandedmolds"}
+		]
+	}
+]

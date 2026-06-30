@@ -1,0 +1,102 @@
+[
+    {
+		"op": "add",
+		"path": "/enabled",
+		"file": "moremolds:blocktypes/clay/mold/arrowheadmold",
+		"value": "false",
+		"dependsOn": [
+			{"modid": "molds"},
+			{"modid": "moremolds"}
+		]
+	},
+    {
+		"op": "add",
+		"path": "/enabled",
+		"file": "moremolds:recipes/clayforming/arrowhead",
+		"value": "false",
+		"dependsOn": [
+			{"modid": "molds"},
+			{"modid": "moremolds"}
+		]
+	},
+    {
+		"op": "add",
+		"path": "/enabled",
+		"file": "moremolds:blocktypes/clay/mold/spearheadmold",
+		"value": "false",
+		"dependsOn": [
+			{"modid": "molds"},
+			{"modid": "moremolds"}
+		]
+	},
+    {
+		"op": "add",
+		"path": "/enabled",
+		"file": "moremolds:recipes/clayforming/spearhead",
+		"value": "false",
+		"dependsOn": [
+			{"modid": "molds"},
+			{"modid": "moremolds"}
+		]
+	},
+    {
+		"op": "add",
+		"path": "/enabled",
+		"file": "moremolds:blocktypes/clay/mold/chiselmold",
+		"value": "false",
+		"dependsOn": [
+			{"modid": "molds"},
+			{"modid": "moremolds"}
+		]
+	},
+    {
+		"op": "add",
+		"path": "/enabled",
+		"file": "moremolds:recipes/clayforming/chisel",
+		"value": "false",
+		"dependsOn": [
+			{"modid": "molds"},
+			{"modid": "moremolds"}
+		]
+	},
+    {
+		"op": "add",
+		"path": "/enabled",
+		"file": "moremolds:blocktypes/clay/mold/knifemold",
+		"value": "false",
+		"dependsOn": [
+			{"modid": "molds"},
+			{"modid": "moremolds"}
+		]
+	},
+    {
+		"op": "add",
+		"path": "/enabled",
+		"file": "moremolds:recipes/clayforming/knife",
+		"value": "false",
+		"dependsOn": [
+			{"modid": "molds"},
+			{"modid": "moremolds"}
+		]
+	},
+    {
+		"op": "add",
+		"path": "/enabled",
+		"file": "moremolds:blocktypes/clay/mold/wrenchmold",
+		"value": "false",
+		"dependsOn": [
+			{"modid": "molds"},
+			{"modid": "moremolds"}
+		]
+	},
+    {
+		"op": "add",
+		"path": "/enabled",
+		"file": "moremolds:recipes/clayforming/wrench",
+		"value": "false",
+		"dependsOn": [
+			{"modid": "molds"},
+			{"modid": "moremolds"}
+		]
+	}
+]

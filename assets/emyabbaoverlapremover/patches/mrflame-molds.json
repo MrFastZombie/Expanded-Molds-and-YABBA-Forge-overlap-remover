@@ -1,0 +1,52 @@
+[
+    {
+		"op": "addmerge",
+		"path": "/enabled",
+		"file": "molds:blocktypes/clay/mold/ingot-mold",
+		"value": "false",
+		"dependsOn": [
+			{"modid": "molds"},
+			{"modid": "expandedmolds"}
+		]
+	},
+    {
+		"op": "addmerge",
+		"path": "/0/enabled",
+		"file": "molds:recipes/grid/4ingotmold",
+		"value": "false",
+		"dependsOn": [
+			{"modid": "molds"},
+			{"modid": "expandedmolds"}
+		]
+	},
+    {
+		"op": "addmerge",
+		"path": "/0/enabled",
+		"file": "molds:recipes/grid/8ingotmold",
+		"value": "false",
+		"dependsOn": [
+			{"modid": "molds"},
+			{"modid": "expandedmolds"}
+		]
+	},
+    {
+		"op": "addmerge",
+		"path": "/enabled",
+		"file": "molds:blocktypes/clay/mold/chute-mold",
+		"value": "false",
+		"dependsOn": [
+			{"modid": "molds"},
+			{"modid": "expandedmolds"}
+		]
+	},
+    {
+		"op": "addmerge",
+		"path": "/0/enabled",
+		"file": "molds:recipes/grid/chutes",
+		"value": "false",
+		"dependsOn": [
+			{"modid": "molds"},
+			{"modid": "expandedmolds"}
+		]
+	}
+]
